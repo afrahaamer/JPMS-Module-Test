@@ -1,7 +1,7 @@
 package com.afrah.modules.hello;
- 
+
 public class HelloModules {
-    public static void doSomething() {
-        System.out.println("Hello, Modules!");
-    }
+public static void doSomething() {
+System.out.println("Hello, Modules!");
+}
 }
