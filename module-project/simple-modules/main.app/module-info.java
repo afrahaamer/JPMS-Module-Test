@@ -1,3 +1,4 @@
 module main.app {
-	requires hello.modules;
+requires hello.modules;
+uses com.afrah.modules.hello.HelloInterface;
 }
